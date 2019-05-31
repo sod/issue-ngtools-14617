@@ -1,3 +1,5 @@
+Reproduction for issue: https://github.com/angular/angular-cli/issues/14617
+
 Build `dist-with-source-map-true/` created via:
 `ng build --prod --aot --build-optimizer --source-map`
 
